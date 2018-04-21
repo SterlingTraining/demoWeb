@@ -4,6 +4,7 @@
 		<from>Jani</from>
 		<heading>Reminder</heading>
 		<body>Don't forget me this weekend!</body>
+		<msg>This is test message</msg>
 	</note>
 	<note>
 	<to>jOHN</to>
